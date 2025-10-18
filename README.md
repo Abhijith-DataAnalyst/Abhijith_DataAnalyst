@@ -65,7 +65,7 @@ I’m always open to learning, feedback, and collaboration on data-related proje
 Let’s connect and grow together in the world of data!  
 ## 📬 Connect With Me
 - 💼 **LinkedIn:**https://www.linkedin.com/in/abhijith-av-dataanalyst/
-- 📧 **Email:** abhijithav111@gmail.com
+- 📧 **Gmail:** abhijithdataanalyst@gmail.com
 
 
 
