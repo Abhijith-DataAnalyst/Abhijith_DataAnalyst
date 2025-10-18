@@ -2,6 +2,16 @@
 A portfolio of data analysis projects showcasing skills in Python, SQL, Power BI, Excel, and Tableau — focused on data cleaning, visualization, and business insights.
 
 Welcome to my GitHub! This space showcases my journey in data analytics — from exploring datasets to creating dashboards and reports using Python, SQL, Excel, Power BI, and Tableau.
+## 👨‍💻 About Me
+
+Hi there! I'm **[ABHIJITH AV]**, a passionate **Data Analyst** skilled in transforming raw data into actionable insights using **Power BI**, **Excel**, and **SQL**.  
+I love creating visually compelling dashboards and helping organizations make data-driven decisions through clear storytelling and analytics.  
+
+I’m currently working on enhancing my portfolio with projects in:
+- 📊 Business Intelligence (Power BI, Tableau)
+- 🧮 Data Analysis (Excel, SQL, Python)
+- 📈 Data Visualization & Reporting
+
 
 ## 🧰 Tools & Technologies  
 
@@ -53,7 +63,10 @@ Problem Solving | Critical Thinking | Data Storytelling | Collaboration | Attent
 😊 *Thanks for stopping by!*  
 I’m always open to learning, feedback, and collaboration on data-related projects.  
 Let’s connect and grow together in the world of data!  
-📧 [your.email@example.com](mailto:your.email@example.com) | 💼 [LinkedIn](https://www.linkedin.com/)
+## 📬 Connect With Me
+- 💼 **LinkedIn:**https://www.linkedin.com/in/abhijith-av-dataanalyst/
+- 📧 **Email:** abhijithav111@gmail.com
+
 
 
 
