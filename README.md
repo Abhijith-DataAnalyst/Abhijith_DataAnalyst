@@ -57,6 +57,4 @@ Let’s connect and grow together in the world of data!
 
 
 
----
 
-## 📂 Featured Projects  
