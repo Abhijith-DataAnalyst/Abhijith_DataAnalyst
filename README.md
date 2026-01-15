@@ -1,4 +1,4 @@
-# Abhijith_DataAnalyst
+# Abhijith_AV
 A portfolio of data analysis projects showcasing skills in Python, SQL, Power BI, Excel, and Tableau — focused on data cleaning, visualization, and business insights.
 
 Welcome to my GitHub! This space showcases my journey in data analytics — from exploring datasets to creating dashboards and reports using Python, SQL, Excel, Power BI, and Tableau.
